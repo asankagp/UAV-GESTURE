@@ -1,0 +1,8 @@
+S5_haveCommand_HD
+S6_haveCommand_HD
+S9_haveCommand_HD
+S11_haveCommand_HD
+S12_haveCommand_HD
+S13_haveCommand_HD
+S14_haveCommand_HD
+S15_haveCommand_HD

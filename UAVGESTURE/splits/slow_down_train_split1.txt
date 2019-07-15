@@ -1,0 +1,8 @@
+S1_slowDown_HD
+S3_slowDown_HD
+S4_slowDown_HD
+S5_slowDown_HD
+S6_slowDown_HD
+S9_slowDown_HD
+S11_slowDown_HD
+S12_slowDown_HD

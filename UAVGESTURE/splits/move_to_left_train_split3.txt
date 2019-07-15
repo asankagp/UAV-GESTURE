@@ -1,0 +1,8 @@
+S1_moveToLeft_HD
+S3_moveToLeft_HD
+S4_moveToLeft_HD
+S11_moveToLeft_HD
+S12_moveToLeft_HD
+S13_moveToLeft_HD
+S14_moveToLeft_HD
+S15_moveToLeft_HD

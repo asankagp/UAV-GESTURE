@@ -1,0 +1,3 @@
+S1_haveCommand_HD
+S3_haveCommand_HD
+S4_haveCommand_HD

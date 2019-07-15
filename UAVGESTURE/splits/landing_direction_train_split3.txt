@@ -1,0 +1,5 @@
+S1_landingDirection_HD
+S4_landingDirection_HD
+S11_landingDirection_HD
+S12_landingDirection_HD
+S13_landingDirection_HD
